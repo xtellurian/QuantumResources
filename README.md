@@ -1,6 +1,8 @@
 # Quantum Resources
 A collection of resources for Quantum Computing enthusiasts
 
+[Qubit Timeline](http://www.qubitcounter.com/)
+
 ## Videos
 
 - [University of Oxford, Strachey Lecture - Quantum Supremacy](https://podcasts.ox.ac.uk/strachey-lecture-quantum-supremacy) - Scott Aaronson (audio / video)
