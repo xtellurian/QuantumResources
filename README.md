@@ -1,7 +1,7 @@
 # Quantum Resources
 A collection of resources for Quantum Computing enthusiasts
 
-[Qubit Timeline](http://www.qubitcounter.com/)
+[Qubit Counter](http://www.qubitcounter.com/)
 
 ## Videos
 
