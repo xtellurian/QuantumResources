@@ -30,6 +30,7 @@ A collection of resources for Quantum Computing enthusiasts
 
 - ["Thinking Quantum": Lectures on Quantum Theory for High-School Students](https://arxiv.org/abs/1803.07098) by Barak Shoshany (arXiv)
  - [ASCR Report on Quantum Computing for Science](https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/ASCRQuantumReport-final.pdf) (pdf)
+- [A Gentle Introduction to Computational Complexity](https://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Hogan.pdf) - Sean Hogan (pdf)
 
 ## Q# 
 
@@ -53,6 +54,7 @@ A collection of resources for Quantum Computing enthusiasts
 
 ## Other
 
+- [Complexity Zoo](https://complexityzoo.uwaterloo.ca/Complexity_Zoo)
 - [Liquid: Quantum Computer Simulator](http://stationq.github.io/Liquid/) (superceded by QDK)
 - [Quantum Computer Playground](http://www.quantumplayground.net/#/home) (simulator)
 - [List of Quantum Computer Simulators](https://www.quantiki.org/wiki/list-qc-simulators)
