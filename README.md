@@ -42,7 +42,11 @@ A collection of resources for Quantum Computing enthusiasts
 
 
 
-## Microsoft Quantum Research Groups
+## Research Groups
+
+### Microsoft
+
+#### Teams
 
  - [Redmond, USA](https://www.microsoft.com/en-us/research/group/microsoft-quantum-redmond-quarc/)
  - [Sydney, Australia](https://www.microsoft.com/en-us/research/group/microsoft-quantum-sydney/)
@@ -50,6 +54,11 @@ A collection of resources for Quantum Computing enthusiasts
  - [Copenhagen, Denmark](https://www.microsoft.com/en-us/research/group/microsoft-quantum-copenhagen/)
  - [Santa Barbara, USA (Station Q)](https://www.microsoft.com/en-us/research/group/microsoft-quantum-santa-barbara-station-q/)
  - [West Lafayette/ Purdue, USA](https://www.microsoft.com/en-us/research/group/microsoft-quantum-west-lafayettepurdue/)
+ 
+ ### Google
+ 
+ - [Quantum AI Publications](https://research.google.com/pubs/QuantumAI.html)
+ - [Bristlecone Quantum Processor](https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html) (blog post)
  
 
 ## Other
