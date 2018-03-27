@@ -15,9 +15,10 @@ A collection of resources for Quantum Computing enthusiasts
  - [Thoughts on Quantum Computing](https://youtu.be/l6xMb9OEhO4) - Michael Freedman
  
 
-## Blogs
+## Articles
 
 - [The Hitckhiker's Guide to the Quantum Computing and Q# Blog](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/) (blog)
+ - [Quantum Computing: Quick Reference Guide](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/28/quantum-computing-quick-reference-guide/)
 
 ## Books
 
