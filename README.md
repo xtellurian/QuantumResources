@@ -48,7 +48,9 @@ A collection of resources for Quantum Computing enthusiasts
 
 ### Microsoft
 
-#### Teams
+- [Microsoft Quantum](https://www.microsoft.com/en-au/quantum/)
+
+#### Microsoft Global Teams
 
  - [Redmond, USA](https://www.microsoft.com/en-us/research/group/microsoft-quantum-redmond-quarc/)
  - [Sydney, Australia](https://www.microsoft.com/en-us/research/group/microsoft-quantum-sydney/)
@@ -62,6 +64,10 @@ A collection of resources for Quantum Computing enthusiasts
  - [Quantum AI Publications](https://research.google.com/pubs/QuantumAI.html)
  - [Bristlecone Quantum Processor](https://research.googleblog.com/2018/03/a-preview-of-bristlecone-googles-new.html) (blog post)
  
+ 
+### IBM
+
+- [IBM Q](https://www.research.ibm.com/ibm-q/)
 
 ## Other
 
