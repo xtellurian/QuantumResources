@@ -51,6 +51,7 @@ A collection of resources for Quantum Computing enthusiasts
 
 - [Microsoft Quantum](https://www.microsoft.com/en-au/quantum/)
 - [Quantum Research Lab](https://www.microsoft.com/en-us/research/lab/quantum/)
+- [Microsoft Explanimators](https://news.microsoft.com/stories/explanimators/quantum/)
 
 #### Microsoft Global Teams
 
