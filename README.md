@@ -33,6 +33,7 @@ A collection of resources for Quantum Computing enthusiasts
 - ["Thinking Quantum": Lectures on Quantum Theory for High-School Students](https://arxiv.org/abs/1803.07098) by Barak Shoshany (arXiv)
  - [ASCR Report on Quantum Computing for Science](https://cfwebprod.sandia.gov/cfdocs/CompResearch/docs/ASCRQuantumReport-final.pdf) (pdf)
 - [A Gentle Introduction to Computational Complexity](https://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Hogan.pdf) - Sean Hogan (pdf)
+ - [Q#: Enabling scalable quantum computing and development with a high-level domain-specific language](https://www.microsoft.com/en-us/research/publication/q-enabling-scalable-quantum-computing-and-development-with-a-high-level-domain-specific-language/)
 
 ## Q# 
 
@@ -49,6 +50,7 @@ A collection of resources for Quantum Computing enthusiasts
 ### Microsoft
 
 - [Microsoft Quantum](https://www.microsoft.com/en-au/quantum/)
+- [Quantum Research Lab](https://www.microsoft.com/en-us/research/lab/quantum/)
 
 #### Microsoft Global Teams
 
