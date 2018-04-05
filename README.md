@@ -27,6 +27,7 @@ A collection of resources for Quantum Computing enthusiasts
 - [Quantum Computing Since Democritus](https://www.scottaaronson.com/democritus/) by Scott Aaronson
 - [Quantum Enigma: Physics Encounters Consciousness](https://www.amazon.com/Quantum-Enigma-Physics-Encounters-Consciousness/dp/0199753814/) by Fred Kuttner
 - [Q is for Quantum](https://www.amazon.com/dp/B074DYJTKN/) by Terry Rudolph
+- [Quantum Computing for Babies](https://www.amazon.com/dp/1492671185) by Chris Ferrie
 
 ## Papers
 
