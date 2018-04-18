@@ -41,6 +41,7 @@ A collection of resources for Quantum Computing enthusiasts
 ## Q# 
 
 - [Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
+- [Q Sharp Demo code](https://github.com/xtellurian/QsharpDemo)
 - [A Beginners Guide to Quantum Computing](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/06/a-beginners-guide-to-quantum-computing-and-q/) by Frances Tibble
 - [Quantum Gates and Circuits: The Crash Course](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/quantum-gates-and-circuits-the-crash-course/) by Anita Ramanan
 - [Quantum Teleportation in Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/27/quantum-teleportation-in-q/) by Frances Tibble
