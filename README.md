@@ -5,9 +5,10 @@ A collection of resources for Quantum Computing enthusiasts
 
 ## Videos
 
-- [University of Oxford, Strachey Lecture - Quantum Supremacy](https://podcasts.ox.ac.uk/strachey-lecture-quantum-supremacy) - Scott Aaronson (audio / video)
-- [Introduction to Microsoft Quantum Development Kit](https://youtu.be/v7b4J2INq9c) (video)
+ - [University of Oxford, Strachey Lecture - Quantum Supremacy](https://podcasts.ox.ac.uk/strachey-lecture-quantum-supremacy) - Scott Aaronson (audio / video)
+ - [Introduction to Microsoft Quantum Development Kit](https://youtu.be/v7b4J2INq9c) (video)
  - [Some light quantum mechanics](https://youtu.be/MzRCDLre1b4) - 3Blue1Brown
+ - [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 3Blue1Brown
  - [A Beginner's Guide to Quantum Computing](https://youtu.be/JRIPV0dPAd4) - Dr Talia Gershon
  - [Explaination of Shor's Algorithm](https://youtu.be/wUwZZaI5u0c) - PBS Infinite Series
  - [Mathematics of Quantum Computers](https://youtu.be/IrbJYsep45E) - PBS Infinite Series
