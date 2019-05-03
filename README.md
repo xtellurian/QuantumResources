@@ -31,6 +31,7 @@ A collection of resources for Quantum Computing enthusiasts
 - [Quantum Enigma: Physics Encounters Consciousness](https://www.amazon.com/Quantum-Enigma-Physics-Encounters-Consciousness/dp/0199753814/) by Fred Kuttner
 - [Q is for Quantum](https://www.amazon.com/dp/B074DYJTKN/) by Terry Rudolph
 - [Quantum Computing for Babies](https://www.amazon.com/dp/1492671185) by Chris Ferrie
+- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) by Sarah C. Kaiser and Christopher E. Granade.
 
 ## Papers
 
