@@ -33,6 +33,7 @@ A collection of resources for Quantum Computing enthusiasts
 - [Quantum Computing for Babies](https://www.amazon.com/dp/1492671185) by Chris Ferrie
 - [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) by Sarah C. Kaiser and Christopher E. Granade.
 - [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers) by Johan Vos.
+- [Quantum Computation and Quantum Information](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary-ebook-dp-B07FPFL6HG/dp/B07FPFL6HG/) by Nielsen and Chuang
 
 ## Papers
 
