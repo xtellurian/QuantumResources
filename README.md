@@ -14,6 +14,7 @@ A collection of resources for Quantum Computing enthusiasts
  - [One Entangled Evening](https://youtu.be/k2x69jp08Sw) - Krysta Svore
  - [Quantum Computation for Quantum Chemistry](https://youtu.be/hRRzoSkeXbQ) - Michael Freedman
  - [Thoughts on Quantum Computing](https://youtu.be/l6xMb9OEhO4) - Michael Freedman
+ - [Benchmarking Quantum Systems (Quantum Volume)](https://youtu.be/-7L5o-mzLqU) - Lev Bishop, IBM Research
  
 
 ## Articles
