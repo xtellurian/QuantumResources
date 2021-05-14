@@ -41,6 +41,13 @@ A collection of resources for Quantum Computing enthusiasts
 - [A Gentle Introduction to Computational Complexity](https://www.math.uchicago.edu/~may/VIGRE/VIGRE2011/REUPapers/Hogan.pdf) - Sean Hogan (pdf)
  - [Q#: Enabling scalable quantum computing and development with a high-level domain-specific language](https://www.microsoft.com/en-us/research/publication/q-enabling-scalable-quantum-computing-and-development-with-a-high-level-domain-specific-language/)
 
+## Courses
+- [Quantum Information Science Series](https://www.edx.org/course/quantum-information-science-i-part-1)
+- [Quantum Country](https://quantum.country/)  
+- John Preskill's [Course Notes from Caltech CS 219](http://theory.caltech.edu/~preskill/ph219/index.html#lecture) 
+- [Qiskit Textbook](https://qiskit.org/textbook/ch-states/introduction.html)  
+- [Qiskit Global Summer School Series](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
+
 ## Q# 
 
 - [Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit)
